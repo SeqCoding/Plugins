@@ -1,7 +1,7 @@
 [
   {
     "internalName": "EthansApi",
-    "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
+    "hash": "2334dd023dea0011c6be37e680c8e32ff00ef188823d3d8016e728d305ca7cbd",
     "size": 1632,
     "plugins": [
       "com.example.EthanApiPlugin"
@@ -12,7 +12,7 @@
   },
     {
     "internalName": "tob-1.0.0",
-    "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
+    "hash": "99958c758d85341d7c54181374d6ce67d602c4a0cf6070e6eb3086d0b6d195a4",
     "size": 1632,
     "plugins": [
       "net.runelite.client.plugins.theatre.TheatrePlugin"
