@@ -12,7 +12,7 @@
   },
     {
     "internalName": "tob-1.0.0",
-    "hash": "99958c758d85341d7c54181374d6ce67d602c4a0cf6070e6eb3086d0b6d195a4",
+    "hash": "56d2423e498b3c48d8a9eccfdc928e200236c6071a7af772f96e4128ddf6113f",
     "size": 1632,
     "plugins": [
       "net.runelite.client.plugins.theatre.TheatrePlugin"
