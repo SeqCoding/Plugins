@@ -15,7 +15,7 @@
     "hash": "09a55cf40eab4b01e7ebfd86ac1b9081ea8c3ae04d382aab27f8b503d2b721c9",
     "size": 1632,
     "plugins": [
-      "net.runelite.client.plugins.theatre.TheatrePlugin"
+      "java.net.runelite.client.plugins.theatre.TheatrePlugin"
     ],
     "displayName": "ToB Helper",
     "description": "",
