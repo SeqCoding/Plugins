@@ -1,12 +1,23 @@
 [
   {
-    "internalName": "specbar",
+    "internalName": "EthansApi",
     "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
     "size": 1632,
     "plugins": [
-      "net.runelite.client.plugins.specbar.SpecBarPlugin"
+      "com.example.EthanApiPlugin"
     ],
-    "displayName": "Specbar",
+    "displayName": "EthansAPI",
+    "description": "",
+    "provider": "Mekkon"
+  },
+    {
+    "internalName": "tob-1.0.0",
+    "hash": "a16d22ecb51ef079682e37013e8271c3be82d2e3e68e85ba000376955f6d23d0",
+    "size": 1632,
+    "plugins": [
+      "net.runelite.client.plugins.theatre.TheatrePlugin"
+    ],
+    "displayName": "ToB Helper",
     "description": "",
     "provider": "Mekkon"
   }
